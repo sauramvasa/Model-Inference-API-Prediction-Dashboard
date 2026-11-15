@@ -1,0 +1,11 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Local databases and secrets
+*.db
+*.sqlite3
+.env
+.env.*
+!.env.example
